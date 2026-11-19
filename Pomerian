@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            background: linear-gradient(135deg, #ffe4ec, #fff0f5);
+            font-family: 'Quicksand', sans-serif;
+            text-align: center;
+            padding: 30px;
+            color: #8B3158;
+        }
+
+        h1 {
+            color: #e75480;
+            font-size: 45px;
+        }
+
+        .paw {
+            font-size: 35px;
+        }
+
+        .container {
+            background-color: #fffafd;
+            max-width: 850px;
+            margin: auto;
+            padding: 30px;
+            border-radius: 25px;
+            border: 2px solid #ffc1d6;
+            box-shadow: 0 5px 15px rgba(200, 80, 130, 0.15);
+        }
+
+        p {
+            font-size: 17px;
+            line-height: 1.8;
+            text-align: left;
+        }
+
+        a {
+            display: inline-block;
+            background-color: #ff80ab;
+            color: white;
+            padding: 13px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+
+        a:hover {
+            background-color: #e75480;
+        }
+
+        footer {
+            margin-top: 25px;
+            color: #c76b91;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <h1>Pomeranians</h1>
+
+    <div class="container">
+
+      
+<p>
+Pomeranians stand out from other dogs by packing the bold, confident attitude of much larger Spitz-type working and sled ancestors into a tiny, fluffy frame. Despite their delicate toy-dog size, they often act fearless around bigger animals, bark alertly like watchdogs, and show a strong independent streak alongside deep loyalty to their owners. They also sport a thick double coat that comes in roughly two dozen colors and patterns and can shift in appearance as puppies mature into adults.</p>
+
+        </p>
+
+       
+
+    </div>
+
+    <footer>
+        By, Ava Triplett 8C 
+    </footer>
+
+</body>
+</html>
